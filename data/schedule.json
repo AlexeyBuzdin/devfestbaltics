@@ -22,11 +22,6 @@
         "imageUrl": "/images/speakers/fernando-cejas.jpg"
       },
       {
-        "time": "11:00",
-        "type": "PROCESS",
-        "title": "Coffee break & Networking"
-      },
-      {
         "time": "11:20",
         "type": "THREE_TRACKS",
         "talks": [
@@ -109,11 +104,6 @@
             "bio": "Juhani is an Android enthusiast. Developer. Design fanboy. Founder at Snapp Mobile Germany. Google Developer Expert on Android"
           }
         ]
-      },
-      {
-        "time": "13:30",
-        "type": "PROCESS",
-        "title": "Coffee break & Networking"
       },
       {
         "time": "13:40",
@@ -253,11 +243,6 @@
             "bio": "Quality assurance tester and Unity developer @Estoty games studio and a member of Latvian Game Developers Association."
           }
         ]
-      },
-      {
-        "time": "18:20",
-        "type": "PROCESS",
-        "title": "Coffee break & Networking"
       },
       {
         "time": "18:35",
